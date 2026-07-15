@@ -11,4 +11,4 @@ header{border-top:.35rem solid var(--accent);border-bottom:1px solid var(--rule)
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 
-:root{--accent:#7b9eb0;--accent-dark:#5c7784;--surface:#ecf1f4}
+:root{--accent:#e8620c;--accent-dark:#ae4a09;--surface:#f6ebe4}
