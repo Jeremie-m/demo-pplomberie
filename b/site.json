@@ -1,0 +1,45 @@
+{
+  "business": {
+    "name": "Pplomberie",
+    "category": "Plombier Caen",
+    "address": "31 Rue Père Sanson, 14000 Caen, France",
+    "phone": "06 47 70 86 83",
+    "rating": 4.8,
+    "reviews": 231
+  },
+  "content": {
+    "headline": "Votre plombier à Caen, 7j/7",
+    "subline": "Dépannage rapide, devis gratuit et travaux garantis — noté 4,8/5 par plus de 230 clients.",
+    "services": [
+      "Dépannage urgent",
+      "Recherche de fuite",
+      "Débouchage canalisation",
+      "Installation sanitaire",
+      "Chauffe-eau \u0026 ballon",
+      "Rénovation salle de bain"
+    ],
+    "about": "Artisan plombier installé à Caen, nous intervenons rapidement pour vos urgences comme pour vos projets d'installation et de rénovation. Fort d'une réputation bâtie sur la qualité et la transparence, notre équipe s'engage sur des devis clairs et un travail soigné, garanti. Votre satisfaction est notre priorité, du premier appel à la fin du chantier."
+  },
+  "images": {
+    "about": "assets/intervention.webp",
+    "hero": "assets/artisan.webp",
+    "map": "assets/map.webp"
+  },
+  "colors": {
+    "accent": "#7b9eb0",
+    "accentDark": "#5c7784",
+    "surface": "#ecf1f4"
+  },
+  "map": {
+    "center": {
+      "lat": 49.200992600000006,
+      "lng": -0.3672589
+    },
+    "city": "Caen",
+    "label": "Caen · secteur d'intervention",
+    "padding": 1.4,
+    "provider": "openstreetmap",
+    "radiusKm": 20,
+    "title": "Carte OpenStreetMap de Caen et son secteur"
+  }
+}
